@@ -10,8 +10,8 @@ image:
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
 
-nameOverride: "Hello-Helm-Example"
-fullnameOverride: "Hello-Helm-Example"
+nameOverride: "helloHelmExample"
+fullnameOverride: "helloHelmExample"
 
 serviceAccount:
   # Specifies whether a service account should be created
